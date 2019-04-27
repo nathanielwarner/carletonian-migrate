@@ -1,0 +1,19 @@
+{
+  "name": "carletonian-migrate",
+  "version": "1.0.0",
+  "description": "Application to migrate content from XML dump of Reason-based Carletonian site to Wordpress database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanielwarner/carletonian-migrate.git"
+  },
+  "author": "Nathaniel MacArthur-Warner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanielwarner/carletonian-migrate/issues"
+  },
+  "homepage": "https://github.com/nathanielwarner/carletonian-migrate#readme"
+}
